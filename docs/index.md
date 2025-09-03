@@ -1059,7 +1059,7 @@
     </figure>
 -->
 ***
-## Le 02/09 (1h)
+## Les 02 et 04/09
 
 === "CONTENU DE SÉANCE"
 
