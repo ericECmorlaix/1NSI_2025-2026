@@ -1028,36 +1028,23 @@
     <figure>
     <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/16udHcMYRFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </figure>
-
+-->
 ***
-## Du 06/09
+## Du 08/09
 
 === "CONTENU DE SÉANCE"
-    
-    - **Créer** un compte élève sur [Capytale](https://capytale2.ac-paris.fr/web/c-auth/login){target=_blank} avec le code Sésame `149DGH9VP` ;
-    - **Découvrir** [les bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){target=_blank} -> ==**Rédiger** progressivement un [notebook jupyter visible sur Capytale n°9c9c-3840062](https://capytale2.ac-paris.fr/web/c/9c9c-3840062){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples ; **Conserver** une copie dans votre classeur sur GitHub==
+        
+    - Retour sur le T.A.F. ;
+    - **Découvrir** [les bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){target=_blank} -> ==**Rédiger** progressivement un [notebook jupyter visible sur Capytale n°`c69d-7011335`](https://capytale2.ac-paris.fr/web/c/c69d-7011335){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples ; **Conserver** une copie dans votre classeur sur GitHub==.
 
 === "TRAVAIL À FAIRE"
 
-    - **Finaliser** votre fiche d'informations au format MarkDown et la transmettre par [mail] ;
     - **Poursuivre** votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} ;
     - **Visionner**  "Petite histoire de l'informatique" une vidéo réalisée par l'[INRIA](https://www.inria.fr/fr){:target="_blank"} -> ==**relever** les mots et dates clefs== :  
     <figure>
     <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/16udHcMYRFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </figure>
 
-
-***
-
-
-=== "TRAVAIL À FAIRE"
-
-    - **Finaliser** votre fiche d'informations au format MarkDown et la transmettre par [mail] ;
-    - **Visionner**  "Petite histoire de l'informatique" une vidéo réalisée par l'[INRIA](https://www.inria.fr/fr){:target="_blank"} -> ==**relever** les mots et dates clefs== :  
-    <figure>
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/16udHcMYRFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </figure>
--->
 ***
 ## Les 02 et 04/09
 
