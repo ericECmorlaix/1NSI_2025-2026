@@ -985,13 +985,14 @@
     <iframe width="560" height="315" src="https://www.youtube.com/embed/lP9PaDs2xgQ?si=tHVffSiabWDMU7Bz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </center>
 
+-->
 
 ***
-## Le 19/09
+## Du 15/09
 
 === "CONTENU DE SÉANCE"
 
-    - Point d'avancement de votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} ;
+    - Point d'avancement de votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} [Capytale n°`c69d-7011335`](https://capytale2.ac-paris.fr/web/c/c69d-7011335){target=_blank} ;
     
     - **Découvrir** comment représenter un entier positif en [binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Binaire-Le_BN_pour_coder.ipynb){target=_blank}
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Binaire-Le_BN_pour_coder.ipynb){ .md-button .md-button--primary}
@@ -1001,7 +1002,7 @@
     
 === "TRAVAIL À FAIRE"
 
-    - **Finaliser** votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Compléter** progressivement votre [notebook jupyter visible sur Capytale n°9c9c-3840062](https://capytale2.ac-paris.fr/web/c/9c9c-3840062){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples ; **Conserver** une copie dans votre classeur sur GitHub.==
+    - **Finaliser** votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Compléter** progressivement votre [notebook jupyter visible sur Capytale n°`c69d-7011335`](https://capytale2.ac-paris.fr/web/c/c69d-7011335){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples ; **Conserver** une copie dans votre classeur sur GitHub.==
 
     - **Finir** les activités du notebook [binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Binaire-Le_BN_pour_coder.ipynb){target=_blank}
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Binaire-Le_BN_pour_coder.ipynb){ .md-button .md-button--primary}
@@ -1013,22 +1014,9 @@
     <iframe width="560" height="315" src="https://www.youtube.com/embed/lP9PaDs2xgQ?si=tHVffSiabWDMU7Bz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </center>   
 
-***
-## Du 10/09
-
-=== "CONTENU DE SÉANCE"
-
     - **Personaliser** [votre classeur numérique pour la NSI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} -> ==**modifier** les fichiers `README.md` et `docs/index.md` qui constituent vos pages d'accueil== ;
-    - **Poursuivre** votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** progressivement un [notebook jupyter visible sur Capytale n°9c9c-3840062](https://capytale2.ac-paris.fr/web/c/9c9c-3840062){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples ; **Conserver** une copie dans votre classeur sur GitHub==
 
-=== "TRAVAIL À FAIRE"
 
-    - **Finaliser** votre fiche d'informations au format MarkDown et la transmettre en PJ d'un [mail] ;
-    - **Visionner**  "Petite histoire de l'informatique" une vidéo réalisée par l'[INRIA](https://www.inria.fr/fr){:target="_blank"} -> ==**relever** les mots et dates clefs== :  
-    <figure>
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/16udHcMYRFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </figure>
--->
 ***
 ## Du 08/09
 
