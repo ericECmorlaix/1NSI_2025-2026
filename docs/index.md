@@ -958,8 +958,10 @@
     <center>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/lP9PaDs2xgQ?si=tHVffSiabWDMU7Bz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </center>
+
+-->    
 ***
-## Les 24 et 26/09
+## Les 22 et 23/09
 
 === "CONTENU DE SÉANCE"
 
@@ -984,8 +986,6 @@
     <center>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/lP9PaDs2xgQ?si=tHVffSiabWDMU7Bz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </center>
-
--->
 
 ***
 ## Du 15/09
