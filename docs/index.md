@@ -900,17 +900,18 @@
     </center> 
 
     - **Découvrir** l'interface graphique **Dear PyGui** à l'aide de [sa documentation](https://dearpygui.readthedocs.io){target=_blank} et de [la playlist de Frédéric LEULEU](https://youtu.be/AtQAfI91GcI?si=uTl8KkSBcn3oDo-y){target=_blank} ;
-
+-->
 ***
 
-## Le 03/10
+## Du 02/10
 
 === "CONTENU DE SÉANCE"
 
-    - **Créer** un compte sur [FranceIOI](https://login.france-ioi.org/register){target=_blank} puis **rejoindre** le groupe [1NSI_2025-2026 sur la plateforme Algoréa](https://parcours.algorea.org/fr/groups/mine){target=_blank} avec le code `gvbnswjssk` ;
+    - **Créer** un compte sur [FranceIOI](https://login.france-ioi.org/register){target=_blank} puis **rejoindre** le groupe [1NSI_2025-2026 sur la plateforme Algoréa](https://parcours.algorea.org/fr/groups/mine){target=_blank} avec le code `rsivadyjkp` ;
     - Synthèse partielle sur les [bases de la programmation en Python](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Programmation_Python-Bases.ipynb){target=_blank} 
     [Capytale n° d8b8-4145623](https://capytale2.ac-paris.fr/web/c/d8b8-4145623){target=_blank .md-button .md-button--primary} 
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Programmation_Python-Bases.ipynb){ .md-button .md-button--primary}
+    - **Eprouver** vos compétences d'interpréteur de script Python en résolvant des défis d'algorithmie avec le robot virtuel [execubot 01](https://execubot.fr/game?levels=1+2+37+47+5+7+36+10+11+12+38+56+9+43+35+39+49+61+57+52+44+18+30+68+6+13+28+16+3+4+70+33+8+27+71+75+2000+66+72+1000+67+20+14+19+32&nbLevels=45&needTuto=true&needChrono=false&codeTracker=true){target=_blank} ;
 
 === "TRAVAIL À FAIRE"
 
@@ -925,7 +926,7 @@
     <center>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/lP9PaDs2xgQ?si=tHVffSiabWDMU7Bz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </center> 
---> 
+ 
 ***
 ## Du 25/09
 
