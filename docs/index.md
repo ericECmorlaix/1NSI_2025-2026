@@ -818,15 +818,15 @@
 === "CONTENU DE SÉANCE"
     
     - QCM02 et QCM03 Bases de Python + binaire, hexadécimal, ASCII et UTF-8, Chaines de caractères, Types construits, Fonctions et Module
-
+-->
 
 ***
 
-## Du 14/11
+## Du 10/11
 
 === "CONTENU DE SÉANCE"
 
-    - **Finir** les activités du notebook [Chaine-Le_BN_pour_traiter_les_textes_en_machine](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Chaine-Le_BN_pour_traiter_les_textes_en_machine.ipynb){target=_blank}
+    - **Finir**  et **rendre** les activités du notebook [Chaine-Le_BN_pour_traiter_les_textes_en_machine](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Chaine-Le_BN_pour_traiter_les_textes_en_machine.ipynb){target=_blank}
     [Capytale n° de75-4442563](https://capytale2.ac-paris.fr/web/c/de75-4442563){target=_blank .md-button .md-button--primary} 
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Chaine-Le_BN_pour_traiter_les_textes_en_machine.ipynb){ .md-button .md-button--primary}
 
@@ -844,17 +844,17 @@
     - **Répondre** aux questions du notebook [Fonctions_Logiques-Google_doodle.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Fonctions_Logiques-Google_doodle.ipynb){target="_blank"} sur [Capytale n° 0e33-4601596](https://capytale2.ac-paris.fr/web/c/0e33-4601596){target=_blank .md-button .md-button--primary }
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Fonctions_Logiques-Google_doodle.ipynb){ .md-button .md-button--primary }.
 
-    - **Reprendre** votre apprentissage de la programmation en Python concernant les *listes*, les *fonctions*, les *boucles imbriquées* et les *opérateurs booléens* sur [futurecoder](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Compléter** votre [notebook jupyter visible sur Capytale n°9c9c-3840062](https://capytale2.ac-paris.fr/web/c/9c9c-3840062){target=_blank} résumé de vos apprentissages en Python
-
-    - **S'entrainer** sur CodEx en réalisant les parcours [Découverte de liste, Calcul de moyennes, Manipulation de chaines de caractères](https://codex.forge.apps.education.fr/parcours/){target=_blank} et conserver une trace de vos réalisations sur [Capytale n° 5644-4571970](https://capytale2.ac-paris.fr/web/c/5644-4571970){target=_blank .md-button .md-button--primary} ;
-    
+    - **Reprendre** votre apprentissage de la programmation en Python concernant les *listes*, les *fonctions*, les *boucles imbriquées* et les *opérateurs booléens* sur [futurecoder](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Compléter** votre [notebook jupyter visible sur Capytale n°9c9c-3840062](https://capytale2.ac-paris.fr/web/c/9c9c-3840062){target=_blank} résumé de vos apprentissages en Python ;
+        
+    - **Valider** sur [CodEx vos apprentissages du T1](https://capytale2.ac-paris.fr/web/c/bcb2-7939069){target=_blank}  ;
+        
     - **Découvrir** le système de numération des Shadoks et **imaginer** un script de conversion :
     <center>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/lP9PaDs2xgQ?si=tHVffSiabWDMU7Bz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    </center> 
+    </center>
 
-    - **Découvrir** l'interface graphique **Dear PyGui** à l'aide de [sa documentation](https://dearpygui.readthedocs.io){target=_blank} et de [la playlist de Frédéric LEULEU](https://youtu.be/AtQAfI91GcI?si=uTl8KkSBcn3oDo-y){target=_blank} ;
--->
+    - **Rassembler** sur [Capytale vos scripts du T1](https://capytale2.ac-paris.fr/web/c/90db-4819088){target=_blank}  ;
+
 ***
 
 ## Du 03/11
