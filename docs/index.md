@@ -827,24 +827,24 @@
 === "CONTENU DE SÉANCE"
 
     - **Finir**  et **rendre** les activités du notebook [Chaine-Le_BN_pour_traiter_les_textes_en_machine](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Chaine-Le_BN_pour_traiter_les_textes_en_machine.ipynb){target=_blank}
-    [Capytale n° de75-4442563](https://capytale2.ac-paris.fr/web/c/de75-4442563){target=_blank .md-button .md-button--primary} 
+    [Capytale n° `de75-4442563`](https://capytale2.ac-paris.fr/web/c/de75-4442563){target=_blank .md-button .md-button--primary} 
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Chaine-Le_BN_pour_traiter_les_textes_en_machine.ipynb){ .md-button .md-button--primary}
 
     - **Parcourir** le notebook présentant [Les_types_construits](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Les_types_construits.ipynb){target=_blank}
-    [Capytale n° bd71-4571643](https://capytale2.ac-paris.fr/web/c/bd71-4571643){target=_blank .md-button .md-button--primary}
+    [Capytale n° `bd71-4571643`](https://capytale2.ac-paris.fr/web/c/bd71-4571643){target=_blank .md-button .md-button--primary}
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Les_types_construits.ipynb){ .md-button .md-button--primary}
 
     - **Lire** et **faire** les activités du notebook [Fonctions_et_modularisation](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Fonctions_et_modularisation.ipynb){target=_blank}
-    [Capytale n° e5f7-4571767](https://capytale2.ac-paris.fr/web/c/e5f7-4571767){target=_blank .md-button .md-button--primary}
+    [Capytale n° `e5f7-4571767`](https://capytale2.ac-paris.fr/web/c/e5f7-4571767){target=_blank .md-button .md-button--primary}
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Fonctions_et_modularisation.ipynb){ .md-button .md-button--primary}
 
 
 === "TRAVAIL À FAIRE"
 
-    - **Répondre** aux questions du notebook [Fonctions_Logiques-Google_doodle.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Fonctions_Logiques-Google_doodle.ipynb){target="_blank"} sur [Capytale n° 0e33-4601596](https://capytale2.ac-paris.fr/web/c/0e33-4601596){target=_blank .md-button .md-button--primary }
+    - **Répondre** aux questions du notebook [Fonctions_Logiques-Google_doodle.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Fonctions_Logiques-Google_doodle.ipynb){target="_blank"} sur [Capytale n° `0e33-4601596`](https://capytale2.ac-paris.fr/web/c/0e33-4601596){target=_blank .md-button .md-button--primary }
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Fonctions_Logiques-Google_doodle.ipynb){ .md-button .md-button--primary }.
 
-    - **Reprendre** votre apprentissage de la programmation en Python concernant les *listes*, les *fonctions*, les *boucles imbriquées* et les *opérateurs booléens* sur [futurecoder](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Compléter** votre [notebook jupyter visible sur Capytale n°9c9c-3840062](https://capytale2.ac-paris.fr/web/c/9c9c-3840062){target=_blank} résumé de vos apprentissages en Python ;
+    - **Reprendre** votre apprentissage de la programmation en Python concernant les *listes*, les *fonctions*, les *boucles imbriquées* et les *opérateurs booléens* sur [futurecoder](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Compléter** votre [notebook jupyter visible sur Capytale n°`c69d-7011335`](https://capytale2.ac-paris.fr/web/c/c69d-7011335){target=_blank} résumé de vos apprentissages en Python ;
         
     - **Valider** sur [CodEx vos apprentissages du T1](https://capytale2.ac-paris.fr/web/c/bcb2-7939069){target=_blank}  ;
         
@@ -852,8 +852,8 @@
     <center>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/lP9PaDs2xgQ?si=tHVffSiabWDMU7Bz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </center>
-
-    - **Rassembler** sur [Capytale vos scripts du T1](https://capytale2.ac-paris.fr/web/c/90db-4819088){target=_blank}  ;
+ <!--
+    - **Rassembler** sur [Capytale vos scripts du T1](https://capytale2.ac-paris.fr/web/c/90db-4819088){target=_blank}  ; -->
 
 ***
 
