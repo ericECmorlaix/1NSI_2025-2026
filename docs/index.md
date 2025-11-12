@@ -841,6 +841,10 @@
 
 === "TRAVAIL À FAIRE"
 
+    - **Rendre** tous les travaux finalisés ;
+    
+    - **Se préparer** pour une évaluation par QCM (*Bases de Python + binaire, hexadécimal, ASCII et UTF-8, Chaines de caractères, Types construits, Fonctions et Module*) les 17 et 20/11 ;
+
     - **Répondre** aux questions du notebook [Fonctions_Logiques-Google_doodle.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Fonctions_Logiques-Google_doodle.ipynb){target="_blank"} sur [Capytale n° `0e33-4601596`](https://capytale2.ac-paris.fr/web/c/0e33-4601596){target=_blank .md-button .md-button--primary }
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Fonctions_Logiques-Google_doodle.ipynb){ .md-button .md-button--primary }.
 
