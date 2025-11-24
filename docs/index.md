@@ -797,7 +797,7 @@
      sur [Capytale n° 9a9f-4841668](https://capytale2.ac-paris.fr/web/c/9a9f-4841668){target=_blank .md-button .md-button--primary }
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Logique_Booleenne.ipynb){ .md-button .md-button--primary}
 
-<!--     - **Valider** progressivement sur [CodEx vos apprentissages du T2](https://capytale2.ac-paris.fr/web/c/bcb2-7939069){target=_blank}  ; -->
+    - **Valider** progressivement sur [CodEx vos apprentissages du T2](https://capytale2.ac-paris.fr/web/c/63cd-8214374){target=_blank} et **conserver** une trace de vos réalisations sur [Capytale n° 5644-4571970](https://capytale2.ac-paris.fr/web/c/5644-4571970){target=_blank .md-button .md-button--primary} ;
 
 
 === "TRAVAIL À FAIRE"
