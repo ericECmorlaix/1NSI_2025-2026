@@ -718,26 +718,28 @@
 
 
 
-
+-->
 ***
 
-## Du 17/12
+## Du 15/12
 
 === "CONTENU DE SÉANCE"
 
     - mini-projet collectif [Dessiner_ma_rue](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Dessiner_ma_rue.ipynb){target=_blank} ;
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Dessiner_ma_rue.ipynb){ .md-button .md-button--primary}
     > Utiliser un tableau Kanban pour visualiser l'évolution du processus de développement d'un projet dans Visual Studio Code ;
- 
 
-    
-    
-    
+=== "TRAVAIL À FAIRE"
+   
+    - Réviser pour une évaluation par QCM ;
+    - **Valider** progressivement sur [CodEx vos apprentissages du T2](https://capytale2.ac-paris.fr/web/c/63cd-8214374){target=_blank} et **conserver** une trace de vos réalisations sur [Capytale n° 5644-4571970](https://capytale2.ac-paris.fr/web/c/5644-4571970){target=_blank .md-button .md-button--primary} ;
     - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary}    
-    
-  
--->
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;        
+    - **Découvrir** le système de numération des Shadoks et **imaginer** un script de conversion visuel avec ipycanvas :
+    <center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/lP9PaDs2xgQ?si=tHVffSiabWDMU7Bz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </center>
+
 ***
 
 ## Le 11/12
