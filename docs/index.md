@@ -697,21 +697,34 @@
     - **Faire** le [devoir pratique de vacances en HTML/CSS | n° 4f26-5056055 / Capytale](https://capytale2.ac-paris.fr/web/c/4f26-5056055){:target="_blank"} ;
 
     - **Finaliser** et **rendre** toutes les activités engagées sur Capytale ce trimestre...
-
+-->
 ***
-## Du 21/01
+
+## Du 15/01
 
 === "CONTENU DE SÉANCE"
 
-    - **Répondre** au questionnement du notebook [OS.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/OS.ipynb){target=_blank} 
+    - Bilan du mini-projet collectif [Dessiner_ma_rue](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Dessiner_ma_rue.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Dessiner_ma_rue.ipynb){ .md-button .md-button--primary}
+    > Utiliser un tableau Kanban pour visualiser l'évolution du processus de développement d'un projet dans Visual Studio Code ;
+
+    - Synthèse du notebook [OS.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/OS.ipynb){target=_blank} 
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/OS.ipynb){ .md-button .md-button--primary} 
-    et remettre votre travail via [Capytale n° `478b-5369425`](https://capytale2.ac-paris.fr/web/c/478b-5369425){target=_blank} ;
+    et remettre votre travail via [Capytale n° `478b-5369425`](https://capytale2.ac-paris.fr/web/c/478b-5369425){target=_blank} pour le 12/01 ;
 
     - **Faire** les activités du notebook [Terminal-Un_BN_pour_la_ligne_de_commande.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){target=_blank} 
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){ .md-button .md-button--primary} 
     et compléter votre memo de ligne de commande [Capytale n° `1436-5369350`](https://capytale2.ac-paris.fr/web/c/1436-5369350) ;
 
--->
+=== "TRAVAIL À FAIRE"
+   
+    - **Valider** progressivement sur [CodEx vos apprentissages du T2](https://capytale2.ac-paris.fr/web/c/63cd-8214374){target=_blank} et **conserver** une trace de vos réalisations sur [Capytale n° 5644-4571970](https://capytale2.ac-paris.fr/web/c/5644-4571970){target=_blank .md-button .md-button--primary} ;
+    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;        
+    - **Découvrir** le système de numération des Shadoks et **imaginer** un script de conversion visuel avec ipycanvas :
+    <center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/lP9PaDs2xgQ?si=tHVffSiabWDMU7Bz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </center>
 ***
 
 ## Du 08/01
