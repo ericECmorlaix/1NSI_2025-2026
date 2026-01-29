@@ -636,20 +636,7 @@
     - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank} | 
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
 
-***
-## Le 06/03
 
-=== "CONTENU DE SÉANCE"
-
-    - **faire** les activités du notebook [Les_tableaux.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Les_tableaux.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Les_tableaux.ipynb){ .md-button .md-button--primary} ;
-
-    > **Compléter** les exercices correspondants sur [Capytale n° d371-5836181](https://capytale2.ac-paris.fr/web/c/d371-5836181){target=_blank} ;
-
-    - **faire** les activités du notebook [TP_matrices.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/TP_matrices.ipynb){target=_blank} | [Capytale n° 05e4-5836493](https://capytale2.ac-paris.fr/web/c/05e4-5836493){target=_blank} |
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/TP_matrices.ipynb){ .md-button .md-button--primary} ;
-    
-=== "TRAVAIL À FAIRE"
 
     - **Se préparer** pour une évaluation pratique [en réalisant des parcours sur CodEx ](https://codex.forge.apps.education.fr/parcours/#informatique){target=_blank} tout en conservant une trace de vos réalisations sur [Capytale n° 5644-4571970](https://capytale2.ac-paris.fr/web/c/5644-4571970){target=_blank .md-button .md-button--primary} et une **évaluation par QCM portant sur les fonctions, les chaines de caractères, les tableaux, la programmation en Python d'une manière générale et d'autres notions déjà vues... ;
 
@@ -698,6 +685,35 @@
 
     - **Finaliser** et **rendre** toutes les activités engagées sur Capytale ce trimestre...
 -->
+***
+***
+## Le 29/01
+
+=== "CONTENU DE SÉANCE"
+
+    - Evaluation par QCM intégrant les notions d'OS et les instructions de commande Linux ;
+    
+    - **faire** les activités du notebook [Les_tableaux.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Les_tableaux.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Les_tableaux.ipynb){ .md-button .md-button--primary} ;
+
+    > **Compléter** les exercices correspondants sur [Capytale n° d371-5836181](https://capytale2.ac-paris.fr/web/c/d371-5836181){target=_blank} ;
+
+    - **faire** les activités du notebook [TP_matrices.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/TP_matrices.ipynb){target=_blank} | [Capytale n° 05e4-5836493](https://capytale2.ac-paris.fr/web/c/05e4-5836493){target=_blank} |
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/TP_matrices.ipynb){ .md-button .md-button--primary} ;
+    
+=== "TRAVAIL À FAIRE"
+
+    - **Poursuivre** l'activité GameShell : **cliquer** sur ce lien <https://codespaces.new/phyver/GameShell> pour ouvrir un CodeSpace puis saisir dans le terminal : `bash start.sh -L fr` (si besoin, utilisez cette [ressource pour des informations sur les permissions utilisateurs ](https://www.linuxtricks.fr/wiki/droits-sous-linux-utilisateurs-groupes-permissions){target=_blank}) ;
+    - **Compléter** et **rendre** votre memo de ligne de commande [Capytale n° `1436-5369350`](https://capytale2.ac-paris.fr/web/c/1436-5369350) ;
+    - **Valider** progressivement sur [CodEx vos apprentissages du T2](https://capytale2.ac-paris.fr/web/c/63cd-8214374){target=_blank} et **conserver** une trace de vos réalisations sur [Capytale n° 5644-4571970](https://capytale2.ac-paris.fr/web/c/5644-4571970){target=_blank .md-button .md-button--primary} ;
+    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;        
+    - **Découvrir** le système de numération des Shadoks et **imaginer** un script de conversion visuel avec ipycanvas :
+    <center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/lP9PaDs2xgQ?si=tHVffSiabWDMU7Bz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </center>
+
+***
 ## Du 15/01
 
 === "CONTENU DE SÉANCE"
