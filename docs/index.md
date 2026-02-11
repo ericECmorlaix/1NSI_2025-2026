@@ -666,13 +666,13 @@
 
     - **S'entrainer** sur [CodEx en réalisant des parcours](https://codex.forge.apps.education.fr/parcours/){target=_blank}
      et **conserver** une trace de vos réalisations sur [Capytale n° 5644-4571970](https://capytale2.ac-paris.fr/web/c/5644-4571970){target=_blank .md-button .md-button--primary} ;
-
+-->
 ***
-## Du 06/02
+## Du 12/02
 
 === "CONTENU DE SÉANCE"
 
-    - **Rejoindre** la classe sur la [KhanAcademy](https://fr.khanacademy.org/join/3E9X2XCS){target=_blank} et **Faire** les activités du notebook [IHM_Web_Statique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/IHM_Web_Statique.ipynb){target=_blank} 
+    - **Faire** les activités du notebook [IHM_Web_Statique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/IHM_Web_Statique.ipynb){target=_blank} 
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/IHM_Web_Statique.ipynb){ .md-button .md-button--primary} 
     et remettre votre travail via [Capytale n° `45e8-5599678`](https://capytale2.ac-paris.fr/web/c/45e8-5599678){target=_blank} ;
     
@@ -681,11 +681,9 @@
 
 === "TRAVAIL À FAIRE"
 
-    - **Faire** le [devoir pratique de vacances en HTML/CSS | n° 4f26-5056055 / Capytale](https://capytale2.ac-paris.fr/web/c/4f26-5056055){:target="_blank"} ;
-
     - **Finaliser** et **rendre** toutes les activités engagées sur Capytale ce trimestre...
--->
-***
+
+
 ***
 ## Le 29/01
 
