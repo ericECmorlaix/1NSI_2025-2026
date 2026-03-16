@@ -668,6 +668,24 @@
      et **conserver** une trace de vos réalisations sur [Capytale n° 5644-4571970](https://capytale2.ac-paris.fr/web/c/5644-4571970){target=_blank .md-button .md-button--primary} ;
 -->
 ***
+## Du 13/03
+
+=== "CONTENU DE SÉANCE"
+
+    - **Développer** [les mini-projets](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Mini-projets-NSI.ipynb){target=_blank} 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Mini-projets-NSI.ipynb){ .md-button .md-button--primary} 
+    et remettre votre travail via [Capytale n° `4bfb2-10025788`](https://capytale2.ac-paris.fr/web/c/bfb2-10025788){target=_blank} ;  
+    
+
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** les activités du notebook [IHM_Web_Statique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/IHM_Web_Statique.ipynb){target=_blank} 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/IHM_Web_Statique.ipynb){ .md-button .md-button--primary} 
+    et **rendre** votre travail via [Capytale n° `45e8-5599678`](https://capytale2.ac-paris.fr/web/c/45e8-5599678){target=_blank} ;
+
+
+***
 ## Du 12/02
 
 === "CONTENU DE SÉANCE"
@@ -958,9 +976,7 @@
     - **S'entrainer** à la [Manipulation de chaines de caractères](https://codex.forge.apps.education.fr/parcours/){target=_blank}
     
     - **Découvrir** le système de numération des Shadoks et **imaginer** un script de conversion :
-    <center>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/lP9PaDs2xgQ?si=tHVffSiabWDMU7Bz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    </center> 
+    
 
     - **Découvrir** l'interface graphique **Dear PyGui** à l'aide de [sa documentation](https://dearpygui.readthedocs.io){target=_blank} et de [la playlist de Frédéric LEULEU](https://youtu.be/AtQAfI91GcI?si=uTl8KkSBcn3oDo-y){target=_blank} et d'autres tutoriels comme :
 
