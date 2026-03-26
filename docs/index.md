@@ -527,6 +527,37 @@
               
 
 
+
+
+
+***
+
+
+
+
+
+
+        - **S'entrainer** pour la [Nuit du cOde](./Nuit_du_cOde) en programmant un jeu de [Snake très simple](./pyxel/Snake_Pyxel_correction.pdf){target=_blank} ;
+
+
+    
+
+=== "TRAVAIL À FAIRE"
+
+    - **Rendre** sur [Capytale n° d371-5836181](https://capytale2.ac-paris.fr/web/c/d371-5836181){target=_blank} les exercices correspondants au notebook [Les_tableaux.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Les_tableaux.ipynb){target=_blank} | 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Les_tableaux.ipynb){ .md-button .md-button--primary}
+
+
+
+
+
+    - **Se préparer** pour une évaluation pratique [en réalisant des parcours sur CodEx ](https://codex.forge.apps.education.fr/parcours/#informatique){target=_blank} tout en conservant une trace de vos réalisations sur [Capytale n° 5644-4571970](https://capytale2.ac-paris.fr/web/c/5644-4571970){target=_blank .md-button .md-button--primary} et une **évaluation par QCM portant sur les fonctions, les chaines de caractères, les tableaux, la programmation en Python d'une manière générale et d'autres notions déjà vues... ;
+
+
+    
+    - Evaluation par QCM sur le web statique ;
+    - **Faire** les activités de [Web Statique avec PyScript](https://ericecmorlaix.github.io/Web_Statique_PyScript/){target=_blank} ;
+
 ***
 ## Du 06/05
 
@@ -535,117 +566,14 @@
     - **Finir** les activités du site [Dictionnaires](https://mcoilhac.forge.apps.education.fr/dictionnaires/dictionnaires/01_quesako/){target=_blank} ;
 
     - **Faire** les activités du notebook [Traitement de données en table avec Python (Partie 2)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-2.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-2.ipynb){ .md-button .md-button--primary} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-2.ipynb){ .md-button .md-button--primary} et **rendre** votre travail via [Capytale n° `d3fd-10248019`](https://capytale2.ac-paris.fr/web/c/d3fd-10248019){target=_blank} ;
 
 === "TRAVAIL À FAIRE"
 
-    - **Rendre** en PJ d'un [mail] votre notebook [Traitement de données en table avec Python (Partie 1)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-1.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-1.ipynb){ .md-button .md-button--primary} ;
+    - **Finir** les activités du notebook [Traitement de données en table avec Python (Partie 1)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-1.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-1.ipynb){ .md-button .md-button--primary} 
+    et **rendre** votre travail via [Capytale n° `01d1-10247072`](https://capytale2.ac-paris.fr/web/c/01d1-10247072){target=_blank} ;
 
-    - **S'entrainer** pour la [Nuit du cOde](./Nuit_du_cOde) en programmant un jeu de [Snake très simple](./pyxel/Snake_Pyxel_correction.pdf){target=_blank} ;
-
-    - **S'entrainer** sur [CodEx en réalisant des parcours](https://codex.forge.apps.education.fr/parcours/){target=_blank}
-     et **conserver** une trace de vos réalisations sur [Capytale n° 5644-4571970](https://capytale2.ac-paris.fr/web/c/5644-4571970){target=_blank .md-button .md-button--primary} ;
-
-***
-
-
-    - **Rendre** sur [Capytale n° d371-5836181](https://capytale2.ac-paris.fr/web/c/d371-5836181){target=_blank} les exercices correspondants au notebook [Les_tableaux.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Les_tableaux.ipynb){target=_blank} | 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Les_tableaux.ipynb){ .md-button .md-button--primary}
-
-    - **Rendre** [TP_matrices sur Capytale n° 05e4-5836493](https://capytale2.ac-paris.fr/web/c/05e4-5836493){target=_blank} | 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/TP_matrices.ipynb){ .md-button .md-button--primary} ;
-
-    - **S'entrainer** pour la [Nuit du cOde](./Nuit_du_cOde) en programmant un jeu de [Snake très simple](./pyxel/Snake_Pyxel_correction.pdf){target=_blank} ;
-
-    - **S'entrainer** sur [CodEx en réalisant des parcours](https://codex.forge.apps.education.fr/parcours/){target=_blank}
-     et **conserver** une trace de vos réalisations sur [Capytale n° 5644-4571970](https://capytale2.ac-paris.fr/web/c/5644-4571970){target=_blank .md-button .md-button--primary} ;
-
-    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank} | 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
-
-***
-## Du 18/03
-
-=== "CONTENU DE SÉANCE"
-
-    - [TP_matrices.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/TP_matrices.ipynb){target=_blank} |  [Capytale n° 05e4-5836493](https://capytale2.ac-paris.fr/web/c/05e4-5836493){target=_blank} | 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/TP_matrices.ipynb){ .md-button .md-button--primary} ;
-
-    - **S'entrainer** pour la [Nuit du cOde](./Nuit_du_cOde) en programmant un jeu de [Snake très simple](./pyxel/Snake_Pyxel_correction.pdf){target=_blank} ;
-
-
-=== "TRAVAIL À FAIRE"
-
-    - **Rendre** sur [Capytale n° d371-5836181](https://capytale2.ac-paris.fr/web/c/d371-5836181){target=_blank} les exercices correspondants au notebook [Les_tableaux.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Les_tableaux.ipynb){target=_blank} | 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Les_tableaux.ipynb){ .md-button .md-button--primary}
-
-    - **S'entrainer** sur [CodEx en réalisant des parcours](https://codex.forge.apps.education.fr/parcours/){target=_blank}
-     et **conserver** une trace de vos réalisations sur [Capytale n° 5644-4571970](https://capytale2.ac-paris.fr/web/c/5644-4571970){target=_blank .md-button .md-button--primary} ;
-
-    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank} | 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
-
-***
-## Les 14 et 15/03 Portes Ouvertes
-
-=== "CONTENU DE SÉANCE"
-
-    - Activités à réaliser :
-
-        - [TP_matrices.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/TP_matrices.ipynb){target=_blank} |  [Capytale n° 05e4-5836493](https://capytale2.ac-paris.fr/web/c/05e4-5836493){target=_blank} | 
-        [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/TP_matrices.ipynb){ .md-button .md-button--primary} ;
-
-        - **S'entrainer** pour la [Nuit du cOde](./Nuit_du_cOde) en programmant un jeu de [Snake très simple](./pyxel/Snake_Pyxel_correction.pdf){target=_blank} ;
-
-    - Activités déjà réalisées :
-
-        - mini-projet collectif [Dessiner_ma_rue](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Dessiner_ma_rue.ipynb){target=_blank} | 
-        [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Dessiner_ma_rue.ipynb){ .md-button .md-button--primary} ;
-        - [IHM_Web_Statique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/IHM_Web_Statique.ipynb){target=_blank} | 
-        [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/IHM_Web_Statique.ipynb){ .md-button .md-button--primary} | 
-        [Capytale n° `45e8-5599678`](https://capytale2.ac-paris.fr/web/c/45e8-5599678){target=_blank} ;
-        - [Terminal-Un_BN_pour_la_ligne_de_commande.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){target=_blank} | 
-        [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){ .md-button .md-button--primary} | 
-        [Capytale n° `1436-5369350`](https://capytale2.ac-paris.fr/web/c/1436-5369350) ;
-        - [Logique_Booleenne](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Logique_Booleenne.ipynb){target=_blank} | 
-        [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Logique_Booleenne.ipynb){ .md-button .md-button--primary} | 
-        [Capytale n° 9a9f-4841668](https://capytale2.ac-paris.fr/web/c/9a9f-4841668){target=_blank .md-button .md-button--primary } ;
-        - [Bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} | 
-        [Capytale n°9c9c-3840062](https://capytale2.ac-paris.fr/web/c/9c9c-3840062){target=_blank} ;
-
-    
-
-=== "TRAVAIL À FAIRE"
-
-    - **Rendre** sur [Capytale n° d371-5836181](https://capytale2.ac-paris.fr/web/c/d371-5836181){target=_blank} les exercices correspondants au notebook [Les_tableaux.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Les_tableaux.ipynb){target=_blank} | 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Les_tableaux.ipynb){ .md-button .md-button--primary}
-
-    - **S'entrainer** sur [CodEx en réalisant des parcours](https://codex.forge.apps.education.fr/parcours/){target=_blank}
-     et **conserver** une trace de vos réalisations sur [Capytale n° 5644-4571970](https://capytale2.ac-paris.fr/web/c/5644-4571970){target=_blank .md-button .md-button--primary} ;
-
-    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank} | 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
-
-
-
-    - **Se préparer** pour une évaluation pratique [en réalisant des parcours sur CodEx ](https://codex.forge.apps.education.fr/parcours/#informatique){target=_blank} tout en conservant une trace de vos réalisations sur [Capytale n° 5644-4571970](https://capytale2.ac-paris.fr/web/c/5644-4571970){target=_blank .md-button .md-button--primary} et une **évaluation par QCM portant sur les fonctions, les chaines de caractères, les tableaux, la programmation en Python d'une manière générale et d'autres notions déjà vues... ;
-
-
-
-
-***
-## Le 04/03
-
-=== "CONTENU DE SÉANCE"
-    
-    - Evaluation par QCM sur le web statique ;
-    - **Faire** les activités de [Web Statique avec PyScript](https://ericecmorlaix.github.io/Web_Statique_PyScript/){target=_blank} ;
-
-=== "TRAVAIL À FAIRE"
-
-    - **S'entrainer** sur [CodEx en réalisant des parcours](https://codex.forge.apps.education.fr/parcours/){target=_blank}
-     et **conserver** une trace de vos réalisations sur [Capytale n° 5644-4571970](https://capytale2.ac-paris.fr/web/c/5644-4571970){target=_blank .md-button .md-button--primary} ;
 -->
 ***
 ## Du 23/03
@@ -655,7 +583,8 @@
     - Révisions de SNT : [Les données structurées et leur traitement](https://parcours.algorea.org/contents/4707-4702-1067253748629066205-653650670442840123/){target=_blank} ;
     - **Faire** les activités du site [Dictionnaires](https://mcoilhac.forge.apps.education.fr/dictionnaires/dictionnaires/01_quesako/){target=_blank} ;
     - **Faire** les activités du notebook [Traitement de données en table avec Python (Partie 1)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-1.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-1.ipynb){ .md-button .md-button--primary} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-1.ipynb){ .md-button .md-button--primary} 
+    et **rendre** votre travail via [Capytale n° `01d1-10247072`](https://capytale2.ac-paris.fr/web/c/01d1-10247072){target=_blank} ;
 
 === "TRAVAIL À FAIRE"
 
