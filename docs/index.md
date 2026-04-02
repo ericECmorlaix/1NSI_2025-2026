@@ -553,13 +553,12 @@
 
     - **Se préparer** pour une évaluation pratique [en réalisant des parcours sur CodEx ](https://codex.forge.apps.education.fr/parcours/#informatique){target=_blank} tout en conservant une trace de vos réalisations sur [Capytale n° 5644-4571970](https://capytale2.ac-paris.fr/web/c/5644-4571970){target=_blank .md-button .md-button--primary} et une **évaluation par QCM portant sur les fonctions, les chaines de caractères, les tableaux, la programmation en Python d'une manière générale et d'autres notions déjà vues... ;
 
-
     
     - Evaluation par QCM sur le web statique ;
     - **Faire** les activités de [Web Statique avec PyScript](https://ericecmorlaix.github.io/Web_Statique_PyScript/){target=_blank} ;
-
+-->
 ***
-## Du 06/05
+## Du 02/04
 
 === "CONTENU DE SÉANCE"
 
@@ -574,7 +573,6 @@
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-1.ipynb){ .md-button .md-button--primary} 
     et **rendre** votre travail via [Capytale n° `01d1-10247072`](https://capytale2.ac-paris.fr/web/c/01d1-10247072){target=_blank} ;
 
--->
 ***
 ## Du 23/03
 
