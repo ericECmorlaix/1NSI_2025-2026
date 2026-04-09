@@ -558,6 +558,22 @@
     - **Faire** les activités de [Web Statique avec PyScript](https://ericecmorlaix.github.io/Web_Statique_PyScript/){target=_blank} ;
 -->
 ***
+## Du 09/04
+
+=== "CONTENU DE SÉANCE"
+
+    - **Finir** les activités du site [Dictionnaires](https://mcoilhac.forge.apps.education.fr/dictionnaires/dictionnaires/01_quesako/){target=_blank} ;
+
+    - **Finir** les activités du notebook [Traitement de données en table avec Python (Partie 2)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-2.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-2.ipynb){ .md-button .md-button--primary} et **rendre** votre travail via [Capytale n° `d3fd-10248019`](https://capytale2.ac-paris.fr/web/c/d3fd-10248019){target=_blank} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Faire** les exercices de [Codex sur Capytale n°`d168-10564835`](https://capytale2.ac-paris.fr/web/c/d168-10564835){target=_blank} concernant les dictionnaires ;
+    - **Se préparer** pour une évaluation par QCM portant sur les dictionnaires et les notions précédemment abordées ;
+    - **Finir** les activités du notebook [Traitement de données en table avec Python (Partie 2)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-2.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Data_CSV-2.ipynb){ .md-button .md-button--primary} et **rendre** votre travail via [Capytale n° `d3fd-10248019`](https://capytale2.ac-paris.fr/web/c/d3fd-10248019){target=_blank} ;
+***
 ## Du 02/04
 
 === "CONTENU DE SÉANCE"
