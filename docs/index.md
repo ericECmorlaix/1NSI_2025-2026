@@ -557,6 +557,20 @@
     - Evaluation par QCM sur le web statique ;
     - **Faire** les activités de [Web Statique avec PyScript](https://ericecmorlaix.github.io/Web_Statique_PyScript/){target=_blank} ;
 -->
+## Du 30/04
+
+=== "CONTENU DE SÉANCE"
+
+    - **Faire** les activités ​du notebook [Algorithmique-Complexite](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Algorithmique-Complexite.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Algorithmique-Complexite.ipynb){ .md-button .md-button--primary} ;
+
+    - **Faire** les activités ​du notebook [Algorithmique-Tri](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Algorithmique-Tri.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Algorithmique-Tri.ipynb){ .md-button .md-button--primary} ;
+
+    - **Approfondir** [la notion de complexité et les algorithmes de tris](https://nreveret.forge.apps.education.fr/tris/){target=_blank}  ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Se préparer** pour une évaluation pratique sur [CodEx](https://codex.forge.apps.education.fr/parcours/) ;
+    
 ***
 ## Du 09/04
 
