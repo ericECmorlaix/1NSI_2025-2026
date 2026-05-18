@@ -563,6 +563,29 @@
 
 ***
 
+## Du 18/05
+
+=== "CONTENU DE SÉANCE"
+
+    - Synthèse des [tris par insertion et par sélection](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Tri_Algo.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/Tri_Algo.ipynb){ .md-button .md-button--primary} et [Capytale n° `dcbb-10982093`](https://capytale2.ac-paris.fr/web/c/dcbb-10982093){target=_blank} ;
+    
+    - **Faire** les activités du notebook [IHM_Web_Dynamique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/IHM_Web_Dynamique.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/IHM_Web_Dynamique.ipynb){ .md-button .md-button--primary} et **rendre** votre travail via [Capytale n° `6ccd-10982715`](https://capytale2.ac-paris.fr/web/c/6ccd-10982715){target=_blank} ;
+
+    
+
+=== "TRAVAIL À FAIRE"
+
+    - **Transmettre** par [mail] les notebook [Algorithmique-Complexite](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Algorithmique-Complexite.ipynb){target=_blank} et [Algorithmique-Tri](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Algorithmique-Tri.ipynb){target=_blank} ;
+
+    - **Approfondir** [la notion de complexité et les algorithmes de tris](https://nreveret.forge.apps.education.fr/tris/){target=_blank}  ;
+    
+    - **Se préparer** pour une ultime évaluation par QCM  ;
+    
+
+***
+
 ## Du 30/04
 
 === "CONTENU DE SÉANCE"
