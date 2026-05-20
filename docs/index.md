@@ -573,7 +573,8 @@
     - **Faire** les activités du notebook [IHM_Web_Dynamique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/IHM_Web_Dynamique.ipynb){target=_blank} ;
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/IHM_Web_Dynamique.ipynb){ .md-button .md-button--primary} et **rendre** votre travail via [Capytale n° `6ccd-10982715`](https://capytale2.ac-paris.fr/web/c/6ccd-10982715){target=_blank} ;
 
-    
+    - **Faire** les activités du notebook [IHM_Web_Dynamique_Flask](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/IHM_Web_Dynamique_Flask.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2025-2026/IHM_Web_Dynamique_Flask.ipynb){ .md-button .md-button--primary} et **rendre** votre travail via [Capytale n° `8cb2-11040279`](https://capytale2.ac-paris.fr/web/c/8cb2-11040279){target=_blank} ;    
 
 === "TRAVAIL À FAIRE"
 
