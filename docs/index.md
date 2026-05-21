@@ -559,7 +559,17 @@
 -->
 ## MISE EN AVANT
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/svkQLQTrU8E?si=bbq91Djr_BcKtwkK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<aside>
+        <h4>France Inter - émission "Grand bien vous fasse" du 20 mai 2026</h4>
+        <iframe src="https://embed.radiofrance.fr/franceinter/diffusion/278a2540-c3a3-42e8-8076-40137fd3598f" width="100%" height="144" frameborder="0" allowfullscreen></iframe>
+        <quote>Elles inquiètent et fascinent parce qu'elles changent nos manières d'apprendre et de créer… Comment bien utiliser Claude, ChatGPT et autres IA génératives à la maison ? Quels en sont les dangers et les pièges ? Peut-on intégrer l'IA générative de façon raisonnée dans notre quotidien ?        
+        <h4>Les invités :</h4>
+        <ul><li>Olivia Villamy, journaliste et cheffe de rubrique au magazine Okapi</li>
+        <li>Laurence Devillers, professeure en informatique et IA à Sorbonne Université, chercheuse au laboratoire LISN du CNRS, présidente de la Fondation Blaise Pascal, autrice de “Savoir vivre avec l’IA” (Denoël)</li>
+        <li>Sébastien Seguin, professeur certifié de technologie et de robotique au collège Saint-Félix Kerlois à Hennebont (Morbihan), auteur de “Apprivoiser l’IA en famille” (De Boeck Supérieur)</li></ul></quote>
+</aside>
+<hr>
+<center><figure><iframe width="560" height="315" src="https://www.youtube.com/embed/svkQLQTrU8E?si=bbq91Djr_BcKtwkK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></figure></center>
 
 ***
 
@@ -581,8 +591,90 @@
     - **Transmettre** par [mail] les notebook [Algorithmique-Complexite](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Algorithmique-Complexite.ipynb){target=_blank} et [Algorithmique-Tri](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Algorithmique-Tri.ipynb){target=_blank} ;
 
     - **Approfondir** [la notion de complexité et les algorithmes de tris](https://nreveret.forge.apps.education.fr/tris/){target=_blank} ;
+
+    - **Regarder** la vidéo [Notions de web et d'interface homme-machine](https://www.lumni.fr/video/notions-de-web-et-d-interface-homme-machine){target="_blank"} ;
     
-    - **Se préparer** pour une ultime évaluation par QCM programmée le 26/05 ;   
+    - **Se préparer** pour une ultime évaluation par QCM programmée le 26/05 ;     
+
+    - **Développer** un serveur web avec flask sur VSC :
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Ihp_cG7c2Rk?si=FsmsvR-ozR9AY3P8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>TUTORIEL FLASK #1 : Découverte du framework, routes & templates</figcaption>
+        </figure>
+        </center>
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/lvxqvNXniVc?si=go8MTmDwkyfmduN5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>TUTORIEL FLASK #2 : Transmettre des paramètres dans l'URL</figcaption>
+        </figure>
+        </center>
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/FdA1P7dY_18?si=fO2LzJCvlFyOo8DG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>TUTORIEL FLASK #3 : Formulaires, méthodes GET et POST</figcaption>
+        </figure>
+        </center>  
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/urp_b3bWcfE?si=2e_p_UprFWfEaLxu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>TUTORIEL FLASK #4 : Fichiers statiques & héritage de templates</figcaption>
+        </figure>
+        </center>
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/QAhZ8nmmYxw?si=BjmMeAp50Gkr8ywi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>TUTORIEL FLASK #5 : Les sessions pour mémoriser des informations</figcaption>
+        </figure>
+        </center>
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/TZGcVVB6COk?si=2_BFIGS0gi5Yj3VT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>TUTORIEL FLASK #6 : Le jeu du nombre mystère</figcaption>
+        </figure>
+        </center>
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/TZGcVVB6COk?si=2_BFIGS0gi5Yj3VT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>[HS #1] Creating a clone of DALL-E with Flask using the OpenAI API (aided by ChatGPT)</figcaption>
+        </figure>
+        </center>
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/PObFnsGgtpU?si=IlPA1eLV2ZUpXwN9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>Utiliser des variables d'environnement dans un projet Python</figcaption>
+        </figure>
+        </center>
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Y8CDJ6jw24s?si=ExHnItt4N714iEDi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>Flask & BDD #1: Virtual Environment</figcaption>
+        </figure>
+        </center>
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/cvhok0EzLbs?si=6Xm4NNCbQKfXO_42" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>FLASK & BDD #2: Searching for Data</figcaption>
+        </figure>
+        </center>
+
+        
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=Z0eG9IGz6SnhqGRg&amp;list=PLPoGXNI6sXm6D0TKBC0dxp2f_LYfruoof" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>Autre playlist pour Flask</figcaption>
+        </figure>
+        </center>
 
 ***
 
