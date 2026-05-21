@@ -580,10 +580,9 @@
 
     - **Transmettre** par [mail] les notebook [Algorithmique-Complexite](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Algorithmique-Complexite.ipynb){target=_blank} et [Algorithmique-Tri](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2025-2026/Algorithmique-Tri.ipynb){target=_blank} ;
 
-    - **Approfondir** [la notion de complexité et les algorithmes de tris](https://nreveret.forge.apps.education.fr/tris/){target=_blank}  ;
+    - **Approfondir** [la notion de complexité et les algorithmes de tris](https://nreveret.forge.apps.education.fr/tris/){target=_blank} ;
     
-    - **Se préparer** pour une ultime évaluation par QCM  ;
-    
+    - **Se préparer** pour une ultime évaluation par QCM programmée le 26/05 ;   
 
 ***
 
