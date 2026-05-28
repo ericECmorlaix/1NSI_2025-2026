@@ -578,10 +578,12 @@
 === "CONTENU DE SÉANCE"
 
     - Projets avec PyxelStudio :
-    
+
         - [Jeu d'aventure SNT sur Capytale n°`7863-11143791`](https://capytale2.ac-paris.fr/web/c/7863-11143791){target=_blank} ;
-        - [Découverte Pyxel 1NSI sur Capytale n°`f239-11143837`](https://capytale2.ac-paris.fr/web/c/f239-11143837){target=_blank} ;
-        - [Projer Pong 1NSI sur Capytale n°`e322-11143891`](https://capytale2.ac-paris.fr/web/c/e322-11143891){target=_blank} ;
+        - [Snake sur Capytale n°`f239-11143837`](https://capytale2.ac-paris.fr/web/c/f239-11143837){target=_blank} ;
+        - [Pong sur Capytale n°`e322-11143891`](https://capytale2.ac-paris.fr/web/c/e322-11143891){target=_blank} ;
+        - [Space Invaders sur Capytale n°`fac0-11145388`](https://capytale2.ac-paris.fr/web/c/fac0-11145388){target=_blank} ;
+        - [Les aliens attaquent !!! (version démo POO) sur Capytale n°`c568-11145357`](https://capytale2.ac-paris.fr/web/c/c568-11145357){target=_blank} ;
      
 
     - **Développer** un serveur web avec flask sur VSC :
