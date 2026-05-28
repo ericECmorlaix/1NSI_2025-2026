@@ -573,6 +573,99 @@
 
 ***
 
+## Du 28/05
+
+=== "CONTENU DE SÉANCE"
+
+    - Projets avec PyxelStudio :
+        - [Jeu d'aventure SNT sur Capytale n°`7863-11143791`](https://capytale2.ac-paris.fr/web/c/7863-11143791){target=_blank} ;
+        - [Découverte Pyxel 1NSI sur Capytale n°`f239-11143837`](https://capytale2.ac-paris.fr/web/c/f239-11143837){target=_blank} ;
+        - [Projer Pong 1NSI sur Capytale n°`e322-11143891`](https://capytale2.ac-paris.fr/web/c/e322-11143891){target=_blank} ;
+     
+
+    - **Développer** un serveur web avec flask sur VSC :
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Ihp_cG7c2Rk?si=FsmsvR-ozR9AY3P8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>TUTORIEL FLASK #1 : Découverte du framework, routes & templates</figcaption>
+        </figure>
+        </center>
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/lvxqvNXniVc?si=go8MTmDwkyfmduN5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>TUTORIEL FLASK #2 : Transmettre des paramètres dans l'URL</figcaption>
+        </figure>
+        </center>
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/FdA1P7dY_18?si=fO2LzJCvlFyOo8DG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>TUTORIEL FLASK #3 : Formulaires, méthodes GET et POST</figcaption>
+        </figure>
+        </center>  
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/urp_b3bWcfE?si=2e_p_UprFWfEaLxu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>TUTORIEL FLASK #4 : Fichiers statiques & héritage de templates</figcaption>
+        </figure>
+        </center>
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/QAhZ8nmmYxw?si=BjmMeAp50Gkr8ywi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>TUTORIEL FLASK #5 : Les sessions pour mémoriser des informations</figcaption>
+        </figure>
+        </center>
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/TZGcVVB6COk?si=2_BFIGS0gi5Yj3VT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>TUTORIEL FLASK #6 : Le jeu du nombre mystère</figcaption>
+        </figure>
+        </center>
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/TZGcVVB6COk?si=2_BFIGS0gi5Yj3VT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>[HS #1] Creating a clone of DALL-E with Flask using the OpenAI API (aided by ChatGPT)</figcaption>
+        </figure>
+        </center>
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/PObFnsGgtpU?si=IlPA1eLV2ZUpXwN9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>Utiliser des variables d'environnement dans un projet Python</figcaption>
+        </figure>
+        </center>
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Y8CDJ6jw24s?si=ExHnItt4N714iEDi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>Flask & BDD #1: Virtual Environment</figcaption>
+        </figure>
+        </center>
+
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/cvhok0EzLbs?si=6Xm4NNCbQKfXO_42" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>FLASK & BDD #2: Searching for Data</figcaption>
+        </figure>
+        </center>
+
+        
+        <center>
+        <figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=Z0eG9IGz6SnhqGRg&amp;list=PLPoGXNI6sXm6D0TKBC0dxp2f_LYfruoof" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>Autre playlist pour Flask</figcaption>
+        </figure>
+        </center>
+
+
+***
+
 ## Du 18/05
 
 === "CONTENU DE SÉANCE"
